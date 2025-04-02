@@ -55,7 +55,8 @@ Exemplo: Uma tupla que representa as coordenadas de um ponto no plano cartesiano
 7. Conjuntos (Sets): Conjuntos são coleções não ordenadas de elementos únicos, ou seja, não permitem duplicatas.​
 
    Exemplo: Um conjunto de números primos menores que 10:
-numeros_primos = {2, 3, 5, 7}
-numeros_primos.add(11)  
-print(3 in numeros_primos)
+
+        numeros_primos = {2, 3, 5, 7}
+        numeros_primos.add(11)  
+        print(3 in numeros_primos)
 
